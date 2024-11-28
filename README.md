@@ -21,7 +21,7 @@ A step-by-step detailed project explanation compiled for detecting spam messages
 7. [Usage](#usage)  
 8. [Results](#results)  
 9. [Contributing](#contributing)  
-10. [Contact](#contact)  
+10. [Lets Connect](#connect)  
 
 ---
 
@@ -207,12 +207,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## **Contact**
+## **Lets Connect**
 
-[Linkedin](https://www.linkedin.com/in/rachuri-vijaykumar/)
-[vijaykumarit45@gmail.com](mailto:vijaykumarit45@gmail.com)
-[Github](https://github.com/vijaykumarr1452)
-[Twitter](https://x.com/vijay_viju1)
+If you have any questions or suggestions, feel free to reach out to me:
+
+- Email: [vijaykumarit45@gmail.com](mailto:vijaykumarit45@gmail.com)
+- GitHub: [Profile](https://github.com/vijaykumarr1452)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/rachuri-vijaykumar/)
+- Twitter: [Twitter](https://x.com/vijay_viju1)
 
 Let me know if you'd like me to refine this further or add specific sections! 😊
 
