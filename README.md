@@ -153,7 +153,8 @@ cd SMS_SPAM_ANALYSIS
 
 ---
 
-## **Project Structure** 📂
+## **Project Structure** 
+
 ```
 SMS_SPAM_ANALYSIS/
 │
