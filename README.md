@@ -215,9 +215,6 @@ If you have any questions or suggestions, feel free to reach out to me:
 - Linkedin: [Linkedin](https://www.linkedin.com/in/rachuri-vijaykumar/)
 - Twitter: [Twitter](https://x.com/vijay_viju1)
 
-Let me know if you'd like me to refine this further or add specific sections! 😊
+Let me know if you'd like me to refine this further or add any specific changes! 😊
 
----
-
-🌟 **Star the repository if you find it helpful!** 🌟
 ---
